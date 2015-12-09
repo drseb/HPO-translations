@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file original="HPO_classes" source-language="en" target-language="es">
+    <body>
+      <trans-unit id="Label_HP:0010926">
+        <source xml:lang="en">Aculeiform cataract</source>
+        <target xml:lang="es">Catarata aculeiforme</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0011141">
+        <source xml:lang="en">Age-related cataract</source>
+        <target xml:lang="es">Catarata relacionada con la edad</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0011143">
+        <source xml:lang="en">Age-related cortical cataract</source>
+        <target xml:lang="es">Catarata cortical relacionada con la edad</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0011142">
+        <source xml:lang="en">Age-related nuclear cataract</source>
+        <target xml:lang="es">Catarata nuclear asociada con la edad</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0011144">
+        <source xml:lang="en">Age-related posterior subcapsular cataract</source>
+        <target xml:lang="es">Catarata subcapsular posterior asociada con la edad</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007795">
+        <source xml:lang="en">Anterior cortical cataract</source>
+        <target xml:lang="es">Catarata cortical anterior</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0001134">
+        <source xml:lang="en">Anterior polar cataract</source>
+        <target xml:lang="es">Catarata polar anterior</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010697">
+        <source xml:lang="en">Anterior pyramidal cataract</source>
+        <target xml:lang="es">Catarata piramidal anterior</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010923">
+        <source xml:lang="en">Anterior subcapsular cataract</source>
+        <target xml:lang="es">Catarata subcapsular anterior</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0100017">
+        <source xml:lang="en">Capsular cataract</source>
+        <target xml:lang="es">Catarata capsular</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0000518">
+        <source xml:lang="en">Cataract</source>
+        <target xml:lang="es">Catarata</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007976">
+        <source xml:lang="en">Cerulean cataract</source>
+        <target xml:lang="es">Catarata cerulea</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0000519">
+        <source xml:lang="en">Congenital cataract</source>
+        <target xml:lang="es">Catarata congénita</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0008024">
+        <source xml:lang="en">Congenital nuclear cataract</source>
+        <target xml:lang="es">Catarata nuclear congénita</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010921">
+        <source xml:lang="en">Coralliform cataract</source>
+        <target xml:lang="es">Catarata coraliforme</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0100019">
+        <source xml:lang="en">Cortical cataract</source>
+        <target xml:lang="es">Catarata cortical</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007780">
+        <source xml:lang="en">Cortical pulverulent cataract</source>
+        <target xml:lang="es">Catarata cortical pulverulenta</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007948">
+        <source xml:lang="en">Dense posterior cortical cataract</source>
+        <target xml:lang="es">Catarata cortical posterior densa</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007657">
+        <source xml:lang="en">Diffuse nuclear cataract</source>
+        <target xml:lang="es">Catarata nuclear difusa</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007889">
+        <source xml:lang="en">Iridescent posterior subcapsular cataract</source>
+        <target xml:lang="es">Catarata subcapsular posterior iridiscente</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0001118">
+        <source xml:lang="en">Juvenile cataract</source>
+        <target xml:lang="es">Catarata juvenil</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007876">
+        <source xml:lang="en">Juvenile cortical cataract</source>
+        <target xml:lang="es">Catarata cortical juvenil</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007713">
+        <source xml:lang="en">Juvenile zonular cataracts</source>
+        <target xml:lang="es">Catarata zonular juvenil</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007971">
+        <source xml:lang="en">Lamellar cataract</source>
+        <target xml:lang="es">Catarata lamelar</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010694">
+        <source xml:lang="en">Lamellar pulverulent cataract</source>
+        <target xml:lang="es">Catarata lamelar pulverulenta</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010922">
+        <source xml:lang="en">Membranous cataract</source>
+        <target xml:lang="es">Catarata membranosa</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007692">
+        <source xml:lang="en">Nonnuclear polymorphic congenital cataract</source>
+        <target xml:lang="es">Catarata congénita polimórfica no nuclear</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0100018">
+        <source xml:lang="en">Nuclear cataract</source>
+        <target xml:lang="es">Catarata nuclear</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010698">
+        <source xml:lang="en">Nuclear pulverulent cataract</source>
+        <target xml:lang="es">Cataratas pulverulenta Nuclear</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010925">
+        <source xml:lang="en">Nuclear punctate cataract</source>
+        <target xml:lang="es">Cataratas puntiforme nuclear</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007968">
+        <source xml:lang="en">Persistent hyperplastic primary vitreous</source>
+        <target xml:lang="es">Vítreo primario hiperplásico persistente</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010696">
+        <source xml:lang="en">Polar cataract</source>
+        <target xml:lang="es">Catarata polar</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0008031">
+        <source xml:lang="en">Posterior Y-sutural cataract</source>
+        <target xml:lang="es">Catarata sutural posterior</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0100020">
+        <source xml:lang="en">Posterior capsular cataract</source>
+        <target xml:lang="es">Catarata capsular posterior</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010924">
+        <source xml:lang="en">Posterior cortical cataract</source>
+        <target xml:lang="es">Catarata cortical posterior densa</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0001115">
+        <source xml:lang="en">Posterior polar cataract</source>
+        <target xml:lang="es">Catarata polar posterior</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007787">
+        <source xml:lang="en">Posterior subcapsular cataract</source>
+        <target xml:lang="es">Catarata subcapsular posterior</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007819">
+        <source xml:lang="en">Presenile cataracts</source>
+        <target xml:lang="es">Catarata presenil</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007834">
+        <source xml:lang="en">Progressive cataract</source>
+        <target xml:lang="es">Catarata Progresiva</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010693">
+        <source xml:lang="en">Pulverulent Cataract</source>
+        <target xml:lang="es">Catarata pulverulenta</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0007648">
+        <source xml:lang="en">Punctate cataract</source>
+        <target xml:lang="es">Cataratas punctata</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0000523">
+        <source xml:lang="en">Subcapsular cataract</source>
+        <target xml:lang="es">Catarata subcapsular</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010695">
+        <source xml:lang="en">Sutural cataract</source>
+        <target xml:lang="es">Cataratas suturales</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010700">
+        <source xml:lang="en">Total cataract</source>
+        <target xml:lang="es">Catarata total</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010699">
+        <source xml:lang="en">Triangular nuclear cataract</source>
+        <target xml:lang="es">Catarata nuclear triangular</target>
+      </trans-unit>
+      <trans-unit id="Label_HP:0010920">
+        <source xml:lang="en">Zonular cataract</source>
+        <target xml:lang="es">Catarata zonular</target>
+      </trans-unit>
+</body>
+</file>
+</xliff>
