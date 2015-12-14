@@ -1,5 +1,5 @@
 Term Identifier	Term Name	Term textual definition	Spanish Translation	
-Abnormality of the skeletal system			Anomalía del Sistema Esquelético	
+Abnormality of the skeletal system	HP:0000924			Anomalía del Sistema Esquelético	
 Abnormality of the skeletal system	HP:0010704	1-2 finger syndactyly	`Syndactyly` (HP:0001159) with fusion of fingers one and two.	Sindactilia de dedos 1-2 de la mano	
 Abnormality of the skeletal system	HP:0005767	1-2 toe complete cutaneous syndactyly		Sindactilia completa de dedos 1-2 del pie	
 Abnormality of the skeletal system	HP:0010711	1-2 toe syndactyly	`Syndactyly` (HP:0001159) with fusion of toes one and two.	Sindactilia de dedos 1-2 del pie	
@@ -5019,7 +5019,7 @@ Abnormality of the cardiovascular system	HP:0001629	Ventricular septal defect	A 
 Abnormality of the cardiovascular system	HP:0004756	Ventricular tachycardia		Taquicardia ventricular	
 Abnormality of the cardiovascular system	HP:0100761	Visceral angiomatosis		Angiomatosis visceral	
 Abnormality of the cardiovascular system	HP:0001716	Wolff-Parkinson-White syndrome	A disorder of the cardiac conduction system of the heart characterized by ventricular preexcitation due to the presence of an abnormal accessory atrioventricular electrical conduction pathway.	Síndrome de Wolff-Parkinson-White	
-	Abnormality of the nervous system			Anormalidad del sistema nervioso.	
+Abnormality of the nervous system	HP:0000707	Abnormality of the nervous system		Anormalidad del sistema nervioso.	
 Abnormality of the nervous system	HP:0012651	Abasia	Ay severe form of gait ataxia such that an affected person cannot walk at all.	Abasia paralítica	
 Abnormality of the nervous system	HP:0011349	Abducens palsy	Malfunction of the abducens nerve as manifested by impairment of the ability of the affected eye to be moved outward.	Parálisis del vi par craneal (abducente)	
 Abnormality of the nervous system	HP:0011400	Abnormal CNS myelination	An abnormality of `myelination` (GO:0042552) of nerves in the central nervous system.	Mielinización anormal del sistema nervioso central (SNC)	
