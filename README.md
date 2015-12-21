@@ -4,7 +4,7 @@ This is an ongoing project. HPO is aiming at translating all labels, synonyms an
 
 Please contact sebastian.koehler@charite.de for further information on how to join this effort.
 
-The current translation-system can be found at cbcb.charite.de/zanata
+The current translation-system can be found at http://cbcb.charite.de/zanata
 
 ##Spanish
 
