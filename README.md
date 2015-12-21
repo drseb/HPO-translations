@@ -72,4 +72,29 @@ Dr. Ana Isabel Sánchez
     Pontificia Universidad Javeriana
     Colombia
 
+##Italian
 
+Stefano Castellana	
+
+    Bioinformatics Unit, IRCCS Casa Sollievo della Sofferenza
+    San Giovanni Rotondo (FG)
+    
+Tommaso Mazza
+
+    Bioinformatics Unit, IRCCS Casa Sollievo della Sofferenza
+    San Giovanni Rotondo (FG)
+    
+Pietro Palumbo
+
+    Medical Genetics Unit, IRCCS Casa Sollievo della Sofferenza
+    San Giovanni Rotondo (FG)
+    
+Massimo Carella
+
+    Medical Genetics Unit, IRCCS Casa Sollievo della Sofferenza
+    San Giovanni Rotondo (FG)
+
+Leopoldo Zelante
+
+    Medical Genetics Unit, IRCCS Casa Sollievo della Sofferenza
+    San Giovanni Rotondo (FG)							
