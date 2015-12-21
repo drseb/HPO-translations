@@ -1,5 +1,5 @@
 
-# HPO-translations
+# HPO Translations
 This is an ongoing project. HPO is aiming at translating all labels, synonyms and textual definitions into the major languages (e.g. spanish, french, german, portuguese, dutch, chinese, japanese, hindi, italian, arabic)
 
 Please contact sebastian.koehler@charite.de for further information on how to join this effort.
