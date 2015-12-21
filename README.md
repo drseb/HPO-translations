@@ -1,10 +1,29 @@
 
 # HPO Translations
-This is an ongoing project. HPO is aiming at translating all labels, synonyms and textual definitions into the major languages (e.g. spanish, french, german, portuguese, dutch, chinese, japanese, hindi, italian, arabic)
+This is an ongoing project. HPO is aiming at translating all 
+
+ * labels, 
+ * synonyms and
+ * textual definitions 
+
+into the languages 
+
+ * spanish 
+ * french
+ * german
+ * italian
+ * portuguese
+ * dutch
+ * chinese
+ * japanese
+ * hindi
+ * arabic
 
 Please contact sebastian.koehler@charite.de for further information on how to join this effort.
 
 The current translation-system can be found at http://cbcb.charite.de/zanata
+
+Below is the list of the contributors:
 
 ##Spanish
 
@@ -98,3 +117,15 @@ Leopoldo Zelante
 
     Medical Genetics Unit, IRCCS Casa Sollievo della Sofferenza
     San Giovanni Rotondo (FG)							
+
+##German
+
+Sebastian Köhler
+
+    Institute for Medical and Human Genetics
+    Charité Universtätsklinikum - Berlin
+    
+Peter Robinson
+
+    Institute for Medical and Human Genetics
+    Charité Universtätsklinikum - Berlin
