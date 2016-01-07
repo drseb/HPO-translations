@@ -23,7 +23,11 @@ Please contact sebastian.koehler@charite.de for further information on how to jo
 
 The current translation-system can be found at http://cbcb.charite.de/zanata
 
-Below is the list of the contributors:
+#License
+
+Please check [the license](LICENSE.md) for this project!
+
+#Contributors
 
 ##Spanish
 
