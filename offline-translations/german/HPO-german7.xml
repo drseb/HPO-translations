@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file original="HPO_classes" source-language="en" target-language="de">
+    <body>
+      <trans-unit id="HP_0001798_definition">
+        <source xml:lang="en">Aplasia of the nail</source>
+        <target xml:lang="de">Aplasie des Nagels</target>
+      </trans-unit>
+      <trans-unit id="HP_0100322_label">
+        <source xml:lang="en">Aplasia of the pyramidal tract</source>
+        <target xml:lang="de">Aplasie der Pyramidenbahn</target>
+      </trans-unit>
+      <trans-unit id="HP_0100363_label">
+        <source xml:lang="en">Aplasia of the phalanges of the 4th toe</source>
+        <target xml:lang="de">Aplasie der Phalangen der 4. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100362_label">
+        <source xml:lang="en">Aplasia of the phalanges of the 3rd toe</source>
+        <target xml:lang="de">Aplasie der Phalangen der 3. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100364_label">
+        <source xml:lang="en">Aplasia of the phalanges of the 5th toe</source>
+        <target xml:lang="de">Aplasie der Phalangen der 5. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100380_label">
+        <source xml:lang="en">Aplasia of the distal phalanx of the 5th toe</source>
+        <target xml:lang="de">Aplasie des distalen Phalanx der 5. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100383_label">
+        <source xml:lang="en">Aplasia of the middle phalanx of the 5th toe</source>
+        <target xml:lang="de">Aplasie der Mittelphalanx der 5. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100382_label">
+        <source xml:lang="en">Aplasia of the middle phalanx of the 4th toe</source>
+        <target xml:lang="de">Aplasie der Mittelphalanx der 4. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100385_label">
+        <source xml:lang="en">Aplasia of the proximal phalanx of the 4th toe</source>
+        <target xml:lang="de">Aplasie der proximalen Phalanx der 4. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100384_synonyms">
+        <source xml:lang="en">#Aplasia of the proximal phalanx of the 3rd toe</source>
+        <target xml:lang="de">#Aplasie der proximalen Phalanx der 3. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100387_label">
+        <source xml:lang="en">Aplasia of the middle phalanges of the toes</source>
+        <target xml:lang="de">Aplasie der mittleren Phalangen der Zehen</target>
+      </trans-unit>
+      <trans-unit id="HP_0100386_label">
+        <source xml:lang="en">Aplasia of the proximal phalanx of the 5th toe</source>
+        <target xml:lang="de">Aplasie der proximalen Phalangen der 5. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0100388_label">
+        <source xml:lang="en">Aplasia of the proximal phalanges of the toes</source>
+        <target xml:lang="de">Aplasie der Phalangen der Zehen</target>
+      </trans-unit>
+      <trans-unit id="HP_0100801_definition">
+        <source xml:lang="en">Aplasia of the pancreas</source>
+        <target xml:lang="de">Aplasie der Bauchspeicheldrüse</target>
+      </trans-unit>
+      <trans-unit id="HP_0100863_label">
+        <source xml:lang="en">Aplasia of the femoral neck</source>
+        <target xml:lang="de">Aplasie des Schenkelhalses</target>
+      </trans-unit>
+      <trans-unit id="HP_0100862_label">
+        <source xml:lang="en">Aplasia of the femoral head</source>
+        <target xml:lang="de">Aplasie des Hüftkopfes</target>
+      </trans-unit>
+      <trans-unit id="HP_0002688_definition">
+        <source xml:lang="en">Aplasia of frontal sinus</source>
+        <target xml:lang="de">Aplasie der Stirnhöhle</target>
+      </trans-unit>
+      <trans-unit id="HP_0002689_definition">
+        <source xml:lang="en">Aplasia of the paranasal sinuses</source>
+        <target xml:lang="de">Aplasie der Nasennebenhöhlen</target>
+      </trans-unit>
+      <trans-unit id="HP_0003862_synonyms">
+        <source xml:lang="en">#Aplasia of the humerus #Aplastic humerus</source>
+        <target xml:lang="de">#Aplasie des Humerus</target>
+      </trans-unit>
+      <trans-unit id="HP_0003953_synonyms">
+        <source xml:lang="en">#Aplasia of the forearm bones</source>
+        <target xml:lang="de">#Aplasie der Unterarmknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0005199_label">
+        <source xml:lang="en">Aplasia of the abdominal wall musculature</source>
+        <target xml:lang="de">Aplasie der Bauchwandmuskulatur</target>
+      </trans-unit>
+      <trans-unit id="HP_0006591_synonyms">
+        <source xml:lang="en">#Aplasia of the glenoid fossa</source>
+        <target xml:lang="de">#Aplasie des Schulterblatts</target>
+      </trans-unit>
+      <trans-unit id="HP_0040008_label">
+        <source xml:lang="en">Aplasia of facial bones</source>
+        <target xml:lang="de">Aplasie der Gesichtsknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0040042_label">
+        <source xml:lang="en">Aplasia of the eccrine sweat glands</source>
+        <target xml:lang="de">Aplasie der ekkrinen Schweißdrüsen</target>
+      </trans-unit>
+      <trans-unit id="HP_0040048_label">
+        <source xml:lang="en">Aplasia of the left hemidiaphragm</source>
+        <target xml:lang="de">Aplasie des linken Hemidiaphragma</target>
+      </trans-unit>
+      <trans-unit id="HP_0040116_label">
+        <source xml:lang="en">Aplasia of the Eustachian tube</source>
+        <target xml:lang="de">Aplasie der Eustachischen Röhre</target>
+      </trans-unit>
+      <trans-unit id="HP_0008211_definition">
+        <source xml:lang="en">Aplasia of the parathyroid gland</source>
+        <target xml:lang="de">Aplasie der Nebenschilddrüse</target>
+      </trans-unit>
+      <trans-unit id="HP_0008753_label">
+        <source xml:lang="en">Aplasia of the epiglottis</source>
+        <target xml:lang="de">Aplasie des Kehldeckels</target>
+      </trans-unit>
+      <trans-unit id="HP_0009162_synonyms">
+        <source xml:lang="en">#Aplasia of the middle phalanx of the 5th finger</source>
+        <target xml:lang="de">#Aplasie der Mittelphalanx des 5. Fingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009225_label">
+        <source xml:lang="en">Aplasia of the proximal phalanx of the 5th finger</source>
+        <target xml:lang="de">Aplasie des proximal Phalanx des 5. Fingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009246_label">
+        <source xml:lang="en">Aplasia of the distal phalanx of the 5th finger</source>
+        <target xml:lang="de">Aplasie des distalen Phalanx des 5. Fingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009291_label">
+        <source xml:lang="en">Aplasia of the distal phalanx of the 4th finger</source>
+        <target xml:lang="de">Aplasie des distalen Phalanx des 4. Finger</target>
+      </trans-unit>
+      <trans-unit id="HP_0009294_synonyms">
+        <source xml:lang="en">#Aplasia of the middle phalanx of the 4th finger</source>
+        <target xml:lang="de">#Aplasie der Mittelphalanx des 4. Fingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009298_label">
+        <source xml:lang="en">Aplasia of the proximal phalanx of the 4th finger</source>
+        <target xml:lang="de">Aplasie der proximalen Phalanx des 4. Finger</target>
+      </trans-unit>
+      <trans-unit id="HP_0009380_label">
+        <source xml:lang="en">Aplasia of the fingers</source>
+        <target xml:lang="de">Aplasie der Finger</target>
+      </trans-unit>
+      <trans-unit id="HP_0009380_definition">
+        <source xml:lang="en">Aplasia of one or more fingers</source>
+        <target xml:lang="de">Aplasie eines oder mehrerer Finger</target>
+      </trans-unit>
+      <trans-unit id="HP_0009429_label">
+        <source xml:lang="en">Aplasia of the distal phalanx of the 3rd finger</source>
+        <target xml:lang="de">Aplasie der distalen Phalanx des 3. Fingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009458_label">
+        <source xml:lang="en">Aplasia of the proximal phalanx of the 3rd finger</source>
+        <target xml:lang="de">Aplasie der proximalen Phalanx des 3. Fingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009535_synonyms">
+        <source xml:lang="en">#Absent index finger phalanges #Aplasia of the index finger</source>
+        <target xml:lang="de">#Aplasie des Zeigefingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009565_label">
+        <source xml:lang="en">Aplasia of the distal phalanx of the 2nd finger</source>
+        <target xml:lang="de">Aplasie der distalen Phalanx des 2. Fingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009596_label">
+        <source xml:lang="en">Aplasia of the proximal phalanx of the 2nd finger</source>
+        <target xml:lang="de">Aplasie der proximalen Phalanx des 2. Fingers</target>
+      </trans-unit>
+      <trans-unit id="HP_0009649_label">
+        <source xml:lang="en">Aplasia of the distal phalanx of the thumb</source>
+        <target xml:lang="de">Aplasie des distalen Phalanx des Daumens</target>
+      </trans-unit>
+      <trans-unit id="HP_0009659_synonyms">
+        <source xml:lang="en">#Aplasia of the phalanges of the thumb</source>
+        <target xml:lang="de">#Aplasie der Phalangen des Daumens</target>
+      </trans-unit>
+      <trans-unit id="HP_0009740_label">
+        <source xml:lang="en">Aplasia of the parotid gland</source>
+        <target xml:lang="de">Aplasie der Ohrspeicheldrüse</target>
+      </trans-unit>
+      <trans-unit id="HP_0009751_label">
+        <source xml:lang="en">Aplasia of the pectoralis major muscle</source>
+        <target xml:lang="de">Aplasie des großen Brustmuskels</target>
+      </trans-unit>
+      <trans-unit id="HP_0009777_synonyms">
+        <source xml:lang="en">#Absent thumbs #Aplasia of the thumb #Thumb aplasia</source>
+        <target xml:lang="de">#Aplasie des Daumens #Daumen-Aplasie</target>
+      </trans-unit>
+      <trans-unit id="HP_0009802_label">
+        <source xml:lang="en">Aplasia of the phalanges of the hand</source>
+        <target xml:lang="de">Aplasie der Phalangen der Hand</target>
+      </trans-unit>
+      <trans-unit id="HP_0009881_label">
+        <source xml:lang="en">Aplasia of the distal phalanges of the hand</source>
+        <target xml:lang="de">Aplasie der distalen Phalangen der Hand</target>
+      </trans-unit>
+      <trans-unit id="HP_0009910_label">
+        <source xml:lang="en">Aplasia of the middle ear ossicles</source>
+        <target xml:lang="de">Aplasie der Mittelohr-Gehörknöchelchens</target>
+      </trans-unit>
+      <trans-unit id="HP_0010035_label">
+        <source xml:lang="en">Aplasia of the 1st metacarpal</source>
+        <target xml:lang="de">Aplasie des ersten Mittelhandknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010037_label">
+        <source xml:lang="en">Aplasia of the 2nd metacarpal</source>
+        <target xml:lang="de">Aplasie des zweiten Mittelhandknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010040_label">
+        <source xml:lang="en">Aplasia of the 3rd metacarpal</source>
+        <target xml:lang="de">Aplasie des 3. Mittelhandknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010043_label">
+        <source xml:lang="en">Aplasia of the 4th metacarpal</source>
+        <target xml:lang="de">Aplasie des 4. Mittelhandknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010046_label">
+        <source xml:lang="en">Aplasia of the 5th metacarpal</source>
+        <target xml:lang="de">Aplasie des 5. Mittelhandknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010048_label">
+        <source xml:lang="en">Aplasia of metacarpal bones</source>
+        <target xml:lang="de">Aplasie der Mittelhandknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010102_label">
+        <source xml:lang="en">Aplasia of the distal phalanx of the hallux</source>
+        <target xml:lang="de">Aplasie der distalen Phalanx der Großzehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0010106_label">
+        <source xml:lang="en">Aplasia of the proximal phalanx of the hallux</source>
+        <target xml:lang="de">Aplasie der proximalen Phalanx der Großzehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0010110_label">
+        <source xml:lang="en">Aplasia of the phalanges of the hallux</source>
+        <target xml:lang="de">Aplasie der Phalangen der Großzehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0010239_label">
+        <source xml:lang="en">Aplasia of the middle phalanx of the hand</source>
+        <target xml:lang="de">Aplasie der Mittelphalanx der Hand</target>
+      </trans-unit>
+      <trans-unit id="HP_0010242_label">
+        <source xml:lang="en">Aplasia of the proximal phalanges of the hand</source>
+        <target xml:lang="de">Aplasie der proximalen Phalangen der Hand</target>
+      </trans-unit>
+      <trans-unit id="HP_0010430_label">
+        <source xml:lang="en">Aplasia of the phalanges of the 2nd toe</source>
+        <target xml:lang="de">Aplasie der Phalangen der 2. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0010434_label">
+        <source xml:lang="en">Aplasia of the middle phalanx of the 2nd toe</source>
+        <target xml:lang="de">Aplasie der Mittelphalanx der 2. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0010436_label">
+        <source xml:lang="en">Aplasia of the proximal phalanx of the 2nd toe</source>
+        <target xml:lang="de">Aplasie der proximalen Phalanx der 2. Zehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0010463_label">
+        <source xml:lang="en">Aplasia of the ovary</source>
+        <target xml:lang="de">Aplasie der Eierstöcke</target>
+      </trans-unit>
+      <trans-unit id="HP_0010477_label">
+        <source xml:lang="en">Aplasia of the bladder</source>
+        <target xml:lang="de">Aplasie der Blase</target>
+      </trans-unit>
+      <trans-unit id="HP_0010509_label">
+        <source xml:lang="en">Aplasia of the tarsal bones</source>
+        <target xml:lang="de">Aplasie der Fußwurzelknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010626_synonyms">
+        <source xml:lang="en">#Aplasia of the pituitary gland</source>
+        <target xml:lang="de">#Aplasie der Hypophyse</target>
+      </trans-unit>
+      <trans-unit id="HP_0010645_label">
+        <source xml:lang="en">Aplasia of the distal phalanges of the toes</source>
+        <target xml:lang="de">Aplasie der distalen Phalangen der Zehen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010654_label">
+        <source xml:lang="en">Aplasia of the falx cerebri</source>
+        <target xml:lang="de">Aplasie der Falx cerebri</target>
+      </trans-unit>
+      <trans-unit id="HP_0010667_label">
+        <source xml:lang="en">Aplasia of the maxilla</source>
+        <target xml:lang="de">Aplasie des Oberkiefers</target>
+      </trans-unit>
+      <trans-unit id="HP_0010728_label">
+        <source xml:lang="en">Aplasia of the retina</source>
+        <target xml:lang="de">Aplasie der Netzhaut</target>
+      </trans-unit>
+      <trans-unit id="HP_0010744_synonyms">
+        <source xml:lang="en">#Aplasia of the metatarsal bones</source>
+        <target xml:lang="de">#Aplasie der Mittelfußknochen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010745_label">
+        <source xml:lang="en">Aplasia of the phalanges of the toes</source>
+        <target xml:lang="de">Aplasie der Phalangen der Zehen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010757_label">
+        <source xml:lang="en">Aplasia of the premaxilla</source>
+        <target xml:lang="de">Aplasie des Zwischenkiefers</target>
+      </trans-unit>
+      <trans-unit id="HP_0010760_synonyms">
+        <source xml:lang="en">#Absent toes #Aplasia of the toes #Aplasia of toe</source>
+        <target xml:lang="de">#Aplasie der Zehen</target>
+      </trans-unit>
+      <trans-unit id="HP_0010941_label">
+        <source xml:lang="en">Aplasia of the nasal bone</source>
+        <target xml:lang="de">Aplasie des Nasenbeins</target>
+      </trans-unit>
+      <trans-unit id="HP_0010999_label">
+        <source xml:lang="en">Aplasia of the optic tract</source>
+        <target xml:lang="de">Aplasie des optischen Trakts</target>
+      </trans-unit>
+      <trans-unit id="HP_0011136_label">
+        <source xml:lang="en">Aplasia of the sweat glands</source>
+        <target xml:lang="de">Aplasie der Schweißdrüsen</target>
+      </trans-unit>
+      <trans-unit id="HP_0011224_synonyms">
+        <source xml:lang="en">#Ablepharon of eyelid #Absent eyelids #Aplasia of the eyelids</source>
+        <target xml:lang="de">#Aplasie der Augenlider</target>
+      </trans-unit>
+      <trans-unit id="HP_0011372_label">
+        <source xml:lang="en">Aplasia of the inner ear</source>
+        <target xml:lang="de">Aplasie des Innenohres</target>
+      </trans-unit>
+      <trans-unit id="HP_0011377_label">
+        <source xml:lang="en">Aplasia of the vestibule</source>
+        <target xml:lang="de">Aplasie der Vorhalle</target>
+      </trans-unit>
+      <trans-unit id="HP_0011381_label">
+        <source xml:lang="en">Aplasia of the semicircular canal</source>
+        <target xml:lang="de">Aplasie des Bogengangs</target>
+      </trans-unit>
+      <trans-unit id="HP_0011385_definition">
+        <source xml:lang="en">Aplasia of the internal auditory canal</source>
+        <target xml:lang="de">Aplasie des inneren Gehörgangs</target>
+      </trans-unit>
+      <trans-unit id="HP_0011393_label">
+        <source xml:lang="en">Aplasia of the vestibular nerve</source>
+        <target xml:lang="de">Aplasie des Nervus vestibularis</target>
+      </trans-unit>
+      <trans-unit id="HP_0011455_definition">
+        <source xml:lang="en">Aplasia of the malleus</source>
+        <target xml:lang="de">Aplasie des Hammers</target>
+      </trans-unit>
+      <trans-unit id="HP_0011456_definition">
+        <source xml:lang="en">Aplasia of the stapes</source>
+        <target xml:lang="de">Aplasie des Steigbügels</target>
+      </trans-unit>
+      <trans-unit id="HP_0011467_synonyms">
+        <source xml:lang="en">#Agenesis of the gallbladder #Aplasia of the gallbladder</source>
+        <target xml:lang="de">#Aplasie der Gallenblase</target>
+      </trans-unit>
+      <trans-unit id="HP_0011503_label">
+        <source xml:lang="en">Aplasia of the fovea</source>
+        <target xml:lang="de">Aplasie der Fovea</target>
+      </trans-unit>
+      <trans-unit id="HP_0045006_label">
+        <source xml:lang="en">Aplasia of lymphatic vessels</source>
+        <target xml:lang="de">Aplasie der Lymphgefäße</target>
+      </trans-unit>
+      <trans-unit id="HP_0012386_synonyms">
+        <source xml:lang="en">#Agenesis of the halluces #Aplasia of the hallux</source>
+        <target xml:lang="de">#Aplasie der Großzehe</target>
+      </trans-unit>
+      <trans-unit id="HP_0030008_synonyms">
+        <source xml:lang="en">#Aplasia of the cervix #Cervical aplasia</source>
+        <target xml:lang="de">#Aplasie des Zervix #zervikale Aplasie</target>
+      </trans-unit>
+</body>
+</file>
+</xliff>
