@@ -21,7 +21,7 @@ into the languages
 
 Please contact sebastian.koehler@charite.de for further information on how to join this effort.
 
-The current translation-system can be found at http://cbcb.charite.de/zanata
+We are currently searching for a good online translation system for managment of this collaborative task.
 
 #License
 
