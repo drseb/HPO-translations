@@ -25,7 +25,7 @@ We are currently searching for a good online translation system for managment of
 
 #License
 
-Please check [the license](LICENSE.md) for this project!
+Please check [the license](LICENSE.md) for the translations project!
 
 #Contributors
 
