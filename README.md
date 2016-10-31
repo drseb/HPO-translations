@@ -133,3 +133,14 @@ Peter Robinson
 
     Institute for Medical and Human Genetics
     Charité Universtätsklinikum - Berlin
+    
+
+##French
+
+ * Prof. SJ. Darmoni
+ * B. Thirion
+ * C. Letord
+ * G. Kerdelhué
+ * Dr. JP. Leroy
+ * Dr. P. Massari
+ * Dr. N. Griffon
