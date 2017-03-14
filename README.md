@@ -8,18 +8,17 @@ This is an ongoing project. HPO is aiming at translating all
 
 into the languages 
 
- * spanish 
- * french
- * german
- * italian
- * portuguese
- * dutch
- * chinese
- * japanese
- * hindi
- * arabic
+ * spanish (all labels done)
+ * french (all labels done)
+ * german (in progress
+ * italian (all labels done)
+ * portuguese (still searching for help)
+ * dutch (in progess)
+ * chinese (done)
+ * japanese (done)
 
-Please contact sebastian.koehler@charite.de for further information on how to join this effort.
+
+Please contact dr.sebastian.koehler@gmail.com for further information on how to join this effort.
 
 We are currently searching for a good online translation system for managment of this collaborative task.
 
@@ -137,10 +136,11 @@ Peter Robinson
 
 ##French
 
- * Prof. SJ. Darmoni
- * B. Thirion
- * C. Letord
- * G. Kerdelhué
- * Dr. JP. Leroy
- * Dr. P. Massari
- * Dr. N. Griffon
+ * Clement Jonquet et al.
+ 
+##Japanese
+ 
+ * Soichi Ogishima
+ 
+## Chinese
+ * CHPO project (http://wiki.chinahpo.org/index.php/CHPO)
