@@ -136,7 +136,15 @@ Peter Robinson
 
 ##French
 
- * ?
+
+ * Prof. SJ. Darmoni (CISMEF)
+ * B. Thirion
+ * C. Letord
+ * G. Kerdelhué
+ * Dr. JP. Leroy
+ * Dr. P. Massari
+ * Dr. N. Griffon
+ 
  
 ##Japanese
  
