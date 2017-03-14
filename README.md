@@ -136,7 +136,7 @@ Peter Robinson
 
 ##French
 
- * Clement Jonquet et al.
+ * ?
  
 ##Japanese
  
