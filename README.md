@@ -22,13 +22,13 @@ Please contact dr.sebastian.koehler@gmail.com for further information on how to 
 
 We are currently searching for a good online translation system for managment of this collaborative task.
 
-#License
+# License
 
 Please check [the license](LICENSE.md) for the translations project!
 
-#Contributors
+# Contributors
 
-##Spanish
+## Spanish
 
 ### Coordination	
 Prof. Pablo Lapunzina
@@ -39,7 +39,7 @@ Prof. Pablo Lapunzina
     28046-Madrid-Spain
     pablo.lapunzina@salud.madrid.org
 
-####Spanish team	
+#### Spanish team	
 Dr. Sixto García-Miñaur
 
     INGEMM-Institute of Medical and Molecular Genetics-
@@ -68,7 +68,7 @@ Paloma Lapunzina Soler
     Urbaización Montepríncipe
     Madrid-Spain
 
-####Colombian team	
+#### Colombian team	
 Prof. Ignacio Zarante
 
     Director-Department of Phsyological Science
@@ -94,7 +94,7 @@ Dr. Ana Isabel Sánchez
     Pontificia Universidad Javeriana
     Colombia
 
-##Italian
+## Italian
 
 Stefano Castellana	
 
@@ -121,7 +121,7 @@ Leopoldo Zelante
     Medical Genetics Unit, IRCCS Casa Sollievo della Sofferenza
     San Giovanni Rotondo (FG)							
 
-##German
+## German
 
 Sebastian Köhler
 
@@ -134,7 +134,7 @@ Peter Robinson
     Charité Universtätsklinikum - Berlin
     
 
-##French
+## French
 
 
  * Prof. SJ. Darmoni (CISMEF)
@@ -146,7 +146,7 @@ Peter Robinson
  * Dr. N. Griffon
  
  
-##Japanese
+## Japanese
  
  * Soichi Ogishima
  
