@@ -148,7 +148,10 @@ Peter Robinson
  
 ## Japanese
  
- * Soichi Ogishima
+ * Soichi Ogishima 
+ 
+     Tohoku Medical Megabank Organization, Tohoku University
+     Japan
  
 ## Chinese
  * CHPO project (http://wiki.chinahpo.org/index.php/CHPO)
