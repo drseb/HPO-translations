@@ -10,7 +10,7 @@ into the languages
 
  * spanish (all labels done)
  * french (all labels done)
- * german (in progress
+ * german (in progress)
  * italian (all labels done)
  * portuguese (still searching for help)
  * dutch (in progess)
@@ -20,7 +20,7 @@ into the languages
 
 Please contact dr.sebastian.koehler@gmail.com for further information on how to join this effort.
 
-We are currently searching for a good online translation system for managment of this collaborative task.
+We are currently using Crowdin as online translation system for management of this collaborative task.
 
 # License
 
@@ -125,13 +125,12 @@ Leopoldo Zelante
 
 Sebastian Köhler
 
-    Institute for Medical and Human Genetics
-    Charité Universtätsklinikum - Berlin
-    
-Peter Robinson
+    NeuroCure Cluster of Excellence
+	Charité - Universitätsmedizin Berlin
+	Charitéplatz 1
+	D-10117 Berlin
+	Germany
 
-    Institute for Medical and Human Genetics
-    Charité Universtätsklinikum - Berlin
     
 
 ## French
