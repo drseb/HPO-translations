@@ -18,7 +18,7 @@ into the languages
  * japanese (done)
 
 
-Please contact dr.sebastian.koehler@gmail.com for further information on how to join this effort.
+Please contact dr.sebastian.koehler@gmail.com for more information on the project and information on how to join this effort.
 
 We are currently using Crowdin as online translation system for management of this collaborative task.
 
