@@ -154,3 +154,11 @@ Sebastian Köhler
  
 ## Chinese
  * CHPO project (http://wiki.chinahpo.org/index.php/CHPO)
+ 
+## Turkish
+
+ Zafer Yüksel - Centogene
+ 
+## Russian
+
+ Alex Raktiko
