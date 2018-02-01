@@ -161,4 +161,4 @@ Sebastian Köhler
  
 ## Russian
 
- Alex Raktiko
+ Alex Raktiko & Artur Latypov
