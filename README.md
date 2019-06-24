@@ -20,11 +20,11 @@ into the languages
 
 Please contact dr.sebastian.koehler@gmail.com for more information on the project and information on how to join this effort.
 
-We are currently using Crowdin as online translation system for management of this collaborative task.
+We are currently using [Crowdin](https://crowdin.com/project/hpo-translation) as online translation system for management of this collaborative task.
 
 # License
 
-Please check [the license](LICENSE.md) for the translations project!
+Please check [the license](LICENSE) for the translations project!
 
 # Contributors
 
