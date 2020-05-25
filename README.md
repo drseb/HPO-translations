@@ -24,7 +24,7 @@ We are currently using [Crowdin](https://crowdin.com/project/hpo-translation) as
 
 # License
 
-Please check [the license](LICENSE) for the translations project!
+Please check [the license](LICENSE) for the translations project.
 
 # Contributors
 
